@@ -4,17 +4,17 @@ This is an application that can be used to estimate the cost to paint a room.
 
 This application have the following:
 
-# Methods 
+### Methods 
 – the task broken down into independent modules and methods used to implement those modules and developd the solution to application.
 
-# Data validation 
+### Data validation 
 – Validated all the information entered by the user and provided an appropriate message to the user.
 
-# Quality 
+### Quality 
 – Followed the rules and conventions of naming a variable, method and class. Provided comments and proper organization of the code.
 
 
-# Following are assumptions for application:
+### Following are assumptions for application:
 
 •	Room is a rectangular room.
 •	It has one window and a door and both are rectangular.
@@ -25,7 +25,7 @@ This application have the following:
 •	Door and window can’t be bigger than a wall.
 
 
-# Provided the following functionality:
+### Provided the following functionality:
 
 •	Application continues as long as the user wants.
 •	It Accepts length, width, and height of the room along with the dimensions of the door and window.
@@ -34,12 +34,12 @@ This application have the following:
 •	Validates all the dimensions that they are positive and room height is between 8 feet to 16 feet both inclusive.
 
 
-# Implemented the following:
+### Implemented the following:
 •	Exception handling to handle all the possible exceptional situations i.e. abnormalities like data validation
 •	Created and used the following classes:
    o	Room, Door, Window, and Paint
    
- # Classes – created classes provided with appropriate associations between them and Implemented Inheritance and Composition/Aggregation
+ ### Classes – created classes provided with appropriate associations between them and Implemented Inheritance and Composition/Aggregation
  
 -	Provided the possible constructors 
 -	Provided the appropriate attributes 
@@ -47,9 +47,9 @@ This application have the following:
 -	Provided accessors and mutators
 
 
-# Data validation – Implemented through exception handling
+### Data validation – Implemented through exception handling
 
-# Made it menu-based application which displays the following menu and based upon the user’s choice the menu option gets selected:
+### I Made it menu-based application which displays the following menu and based upon the user’s choice the menu option gets selected:
 ********************************
 Main Menu - Paint Cost Estimator
 ********************************
@@ -71,7 +71,7 @@ Enter your choice <0 to exit>:
 # Output
 
 # A small demo how the application works:
-# When application runs then following happens
+#### When application runs then following happens
 
 run:
 ******************************************************
